@@ -12,5 +12,8 @@ public static void main(String[] args) {
 	n=n/10;
 	}
 	System.out.println(res);
+	System.out.println(1);
+	System.out.println(2);
+	
 }
 }
